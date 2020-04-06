@@ -7,7 +7,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Hosting;
+using MyFirstAspNetCoreApp.Services;
 
 namespace MyFirstAspNetCoreApp
 {
@@ -24,6 +26,7 @@ namespace MyFirstAspNetCoreApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.TryAddTransient<JsonFileProductService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
