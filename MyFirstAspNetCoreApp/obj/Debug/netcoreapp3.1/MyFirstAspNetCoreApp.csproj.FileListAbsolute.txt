@@ -9,7 +9,6 @@ E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetC
 E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetCoreApp\bin\Debug\netcoreapp3.1\MyFirstAspNetCoreApp.pdb
 E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetCoreApp\bin\Debug\netcoreapp3.1\MyFirstAspNetCoreApp.Views.dll
 E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetCoreApp\bin\Debug\netcoreapp3.1\MyFirstAspNetCoreApp.Views.pdb
-E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetCoreApp\obj\Debug\netcoreapp3.1\MyFirstAspNetCoreApp.csprojAssemblyReference.cache
 E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetCoreApp\obj\Debug\netcoreapp3.1\MyFirstAspNetCoreApp.csproj.CoreCompileInputs.cache
 E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetCoreApp\obj\Debug\netcoreapp3.1\MyFirstAspNetCoreApp.MvcApplicationPartsAssemblyInfo.cache
 E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetCoreApp\obj\Debug\netcoreapp3.1\MyFirstAspNetCoreApp.RazorAssemblyInfo.cache
@@ -35,3 +34,4 @@ E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetC
 E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetCoreApp\obj\Debug\netcoreapp3.1\MyFirstAspNetCoreApp.pdb
 E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetCoreApp\obj\Debug\netcoreapp3.1\MyFirstAspNetCoreApp.genruntimeconfig.cache
 E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetCoreApp\obj\Debug\netcoreapp3.1\MyFirstAspNetCoreApp.csproj.CopyComplete
+E:\Bashar Ovi\Personal\Running Projects\Learning-ASP.NET-CORE-3.1\MyFirstAspNetCoreApp\obj\Debug\netcoreapp3.1\MyFirstAspNetCoreApp.csprojAssemblyReference.cache

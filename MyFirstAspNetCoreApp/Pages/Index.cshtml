@@ -1,4 +1,7 @@
 ﻿@page
+@using System.ComponentModel
+@using System.ComponentModel.DataAnnotations.Schema
+@using System.Data
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
@@ -6,5 +9,27 @@
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
-    <p>Hello, world! The time on the server is @DateTime.Now</p>
+    <b>Hello, world! The time on the server is @DateTime.Now</b>
 </div>
+<br/> <br/>
+<div class="container text-center">
+    <table class="table-bordered">
+        <tbody>
+            @foreach (var product in Model.Products)
+            {
+            <tr class="h5">
+                <td>
+                    @product.Maker
+                </td>
+                <td>
+                    @product.Id
+                </td>
+                <td>
+                    @product.Title
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
